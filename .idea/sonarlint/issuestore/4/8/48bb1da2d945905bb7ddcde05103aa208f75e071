@@ -1,0 +1,26 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(í†Ö¦8Ç¿İÖ¯.
+U	java:S106M"9Replace this use of System.out or System.err by a logger.(‰œçı8‚³æÊ³.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¬¥íÊÿÿÿÿÿ8‚³æÊ³.
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(ÔËˆèıÿÿÿÿ8…ŒÃÕ³.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(¥ı§Üüÿÿÿÿ8‚³æÊ³.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ú²Ã¿8Ç¿İÖ¯.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(­ä•âúÿÿÿÿ8‚³æÊ³.
+s
+java:S3457/"Q%n should be used in place of \n to produce the platform-specific line separator.(ù¡òÂúÿÿÿÿ8Ì“Î¬´.
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(ù¡òÂúÿÿÿÿ8Æ™¿¬´.
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(³•Ñ®8Œ°ÃÕ³.
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(Ñ˜â8…ŒÃÕ³.
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(‰şãù8‚³æÊ³.
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(À™‚íÿÿÿÿÿ8¿¸Ÿ¬´.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(½¬óßøÿÿÿÿ8ÿÈ”¯¯.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(••âÕ8‚³æÊ³.
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(ÖŒ ®øÿÿÿÿ8İÎ¨Õ³.
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(õñ§¯8‚³æÊ³.
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(üõÑìùÿÿÿÿ8‚³æÊ³.
+U	java:S106E"9Replace this use of System.out or System.err by a logger.(×ô¥ 8ù‰‘¬´.
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(×‡¾­8Ç¿İÖ¯.
+T	java:S106:"9Replace this use of System.out or System.err by a logger.(³ãün8…ŒÃÕ³.
+n
+java:S3457+"Q%n should be used in place of \n to produce the platform-specific line separator.(‰şãù8·ìÍ¬´.
